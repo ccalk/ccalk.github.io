@@ -5,7 +5,7 @@
   link:
     url: https://arxiv.org/pdf/2511.03609
     display: arXiv:2511.03609 (2025).
-  highlight: 0
+  highlight: 1
   
 - title: "Higher catoids, higher quantales and their correspondences"
   image: Screenshot 2025-11-25 at 11.39.47.png
@@ -14,7 +14,7 @@
   link:
     url: https://link.springer.com/article/10.1007/s10485-025-09817-z
     display: Applied Categorical Structures Volume 33, article number 25, (2025).
-  highlight: 0
+  highlight: 1
 
 - title: "Persistent homology of directed spaces"
   image: 5cycle.png
@@ -23,7 +23,7 @@
   link:
     url: https://arxiv.org/abs/2305.03357
     display: arXiv:2305.03357 (2023).
-  highlight: 0
+  highlight: 1
 
 - title: "Algebraic and topological models of directed systems : Exploring dimensions of calculation via algebraic, categorical and homotopical approaches"
   image: 5cycle.png
@@ -50,7 +50,7 @@
   link:
     url: https://doi.org/10.1007/978-3-030-88701-8_7
     display: RAMICS 2021, LNCS proceedings volume 13027 (2021)
-  highlight: 1
+  highlight: 0
 
 - title: "lr-Multisemigroups, modal quantales end the origin of locality"
   image: ModalTissue.jpeg
@@ -59,7 +59,7 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-88701-8_6
     display: RAMICS 2021, LNCS proceedings volume 13027 (2021)
-  highlight: 1
+  highlight: 0
 
 - title: "Time-reversal homotopical properties of concurrent systems"
   image: TimeReversal.png
@@ -68,7 +68,7 @@
   link:
     url: https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0022/0002/a002/
     display:  Homology, Homotopy and Applications, Volume 22 Number 2 (2020)
-  highlight: 1
+  highlight: 0
 
 - title: "Beyond formulas-as-cographs: an extension of Boolean logic to arbitrary graphs"
   image: 5cycle.png
