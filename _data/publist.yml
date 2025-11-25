@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: "Persistent homology of directed spaces"
-  image: 5cycle.png
+  image: MatchboxHomology.png
   description: We link natural homology, an invariant of directed spaces, to the theory of persistent homology.
   authors: C Calk, E Goubault, P Malbos
   link:
