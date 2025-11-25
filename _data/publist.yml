@@ -1,5 +1,5 @@
 - title: "Stone duality proofs for colorless distributed computability theorems"
-  image: 5cycle.png
+  image: Screenshot 2025-11-10 at 12.33.13.png
   description: We leverage Stone duality to define a classifying space for iterated distributed protocols.
   authors: C Calk, E Godard
   link:
@@ -8,7 +8,7 @@
   highlight: 0
   
 - title: "Higher catoids, higher quantales and their correspondences"
-  image: 5cycle.png
+  image: Screenshot 2025-11-25 at 11.39.47.png
   description: We establish a Jonsson Tarski correspondence between (higher) catoids, a generalisation of higher categories, and (higher) quantales.
   authors: C Calk, P Malbos, D Pous, G Struth
   link:
