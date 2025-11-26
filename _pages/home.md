@@ -8,7 +8,7 @@ permalink: /
 
 Since January 2025 I am a postdoctoral researcher at the [Laboratoire d'Informatique et Systèmes](https://www.lis-lab.fr/) 
 in the [CANA team](https://cana.lis-lab.fr/). I am currently funded by the [ANR DisQC](https://disqc.lis-lab.fr/) project.
-Since 2022 I have worked in the same lab, but in the [LIRICA](https://www.lis-lab.fr/lirica/) and [DALGO](https://dalgo-team.pages.lis-lab.fr/website/) teams in the context of the ANR projects [LambdaComb](https://www.lix.polytechnique.fr/LambdaComb/) and [DUCAT](https://www.irif.fr/anr-ducat/index), respectively. 
+I have worked in the same lab since 2022, but in the [LIRICA](https://www.lis-lab.fr/lirica/) and [DALGO](https://dalgo-team.pages.lis-lab.fr/website/) teams in the context of the ANR projects [LambdaComb](https://www.lix.polytechnique.fr/LambdaComb/) and [DUCAT](https://www.irif.fr/anr-ducat/index), respectively. 
 
 <p> My research is in the domain of fundamental computer science, focussed mainly on the study of directed systems. 
 In particular, I am interested in combinatorial and topological models of distributed and concurrent systems, 
