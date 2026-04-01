@@ -20,9 +20,9 @@ au sein de [l'équipe CANA](https://cana.lis-lab.fr/) dans le contexte du projet
 <p> Mes travaux se situent à la frontière entre les mathématiques et l'informatique. Je m'intéresse principalement 
 à l'étude des systèmes dirigées, soit dans la domaine de la réécriture de dimension supérieure et sa formalisation, soit dans l'étude de systèmes concurrents ou distribuées, souvent avec un approche topologique. </p>
 
-<p> [Here](/downloads/CVCamENGLISH-FINALFINAL.pdf) you can find a local copy of my CV. </p>
+<p> [Here](/downloads/CVCamENGLISH-FINALFINAL.pdf) you can find a local copy of my CV, and [here](/downloads/RapportTravaux25.pdf) I provide an in-depth description of my research. </p>
 
-<p> [Ici](/downloads/CVCamFrench_FINAL.pdf) vous trouverez une copie locale de mon CV. </p>
+<p> [Ici](/downloads/CVCamFrench_FINAL.pdf) vous trouverez une copie locale de mon CV et [ici](/downloads/RapportTravaux25.pdf) je fournis une description détaillé de ma recherche. </p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="hover" >
     <!-- Menu -->
